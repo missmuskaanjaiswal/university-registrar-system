@@ -1,0 +1,1 @@
+"""University Registrar System package."""
